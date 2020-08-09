@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "769587492221",
+    "firebase_url": "https://daily-news-updates-flutter-app.firebaseio.com",
+    "project_id": "daily-news-updates-flutter-app",
+    "storage_bucket": "daily-news-updates-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769587492221:android:929530f94b0c37f5a88814",
+        "android_client_info": {
+          "package_name": "com.example.daily_news_updates_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769587492221-2cg11s956fjjv8s1hf05j3nqkf2drc2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHZXnxsP4JTgSypmt7rvByKsa4a1azFtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769587492221-2cg11s956fjjv8s1hf05j3nqkf2drc2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
